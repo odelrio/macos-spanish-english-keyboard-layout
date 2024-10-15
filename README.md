@@ -18,4 +18,4 @@ Descarga la distribución correspondiente a tu teclado (US - ANSI, UK - ISO) y c
 | `€`    | `⌥` + `5`/`e`  |
 | `º`    | `⌥` + `0`      |
 | `ª`    | `⌥` + `9`      |
-| `·`    | `⌥`+ `.`      |
+| `·`    | `⌥` + `.`      |
